@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://onielawba.github.io/sitemap.html.gz
+Sitemap: https://onielawba.github.io/app/sitemap.html.gz
+Sitemap: https://onielawba.github.io/assets/sitemap.html.gz
+Sitemap: https://onielawba.github.io/css/sitemap.html.gz
+Sitemap: https://onielawba.github.io/data/sitemap.html.gz
+Sitemap: https://onielawba.github.io/includes/sitemap.html.gz
+Sitemap: https://onielawba.github.io/item/sitemap.html.gz
+Sitemap: https://onielawba.github.io/src/sitemap.html.gz
